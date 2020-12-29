@@ -17,10 +17,6 @@
       <item>Tuba</item>
       <price>275 £</price>
     </instrument>
-    <instrument>
-      <item>guitar</item>
-      <price>840</price>
-    </instrument>
   </section>
   <section name="Keyboards">
     <instrument>

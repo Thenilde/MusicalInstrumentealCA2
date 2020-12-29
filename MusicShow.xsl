@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
     <xsl:template match="/">
-        <table id="instrumentTable" border="1" class="indent">
+        <table id="musicTable" border="1" class="indent">
             <thead>
                 <tr>
                     <th colspan="3">Select your instrument that you want to buy.</th>
